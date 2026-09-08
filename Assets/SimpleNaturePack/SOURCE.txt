@@ -1,0 +1,6 @@
+Background source: Low-Poly Simple Nature Pack v1.24 by JustCreate.
+Unity Asset Store: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
+Imported from the existing local Unity Asset Store package cache.
+License: Standard Unity Asset Store EULA.
+Scene: Assets/Scenes/hoyo01.unity; root: Paisaje natural.
+Materials adapted to Universal Render Pipeline. Decorative colliders disabled.
